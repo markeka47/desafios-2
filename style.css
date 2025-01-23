@@ -19,7 +19,7 @@ main, html {
   color: #279EFF;
 }
 
-.button {
+button {
   padding: 10px 20px;
   margin: 10px;
   font-size: 24px;
@@ -29,7 +29,7 @@ main, html {
   border-radius: 5px;
 }
 
-.button:hover {
+button:hover {
   background-color: #2980b9;
 }
 
